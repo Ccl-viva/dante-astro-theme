@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'The Open Notebook',
+    subtitle: 'Where Your Musings Matter',
+    description: 'Where thoughts take shape, stories unfold, and inspiration sparks',
     image: {
         src: '/art-institute-of-chicago-IuK8k2v75sU-unsplash.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -96,8 +96,8 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Thoughts and Reflections',
+        text: " Welcome to **The Open Notebook**, a space for thoughts, reflections, and the stories we tell ourselves. Let's explore ideas and everyday adventures together.",
         image: {
             src: '/art-institute-of-chicago-IuK8k2v75sU-unsplash.jpg',
             alt: 'A person sitting at a desk in front of a computer'
@@ -110,7 +110,7 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
+        title: 'Subscribe to Newsletter',
         text: 'One update per week. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
