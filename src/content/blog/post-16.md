@@ -7,7 +7,7 @@ tags:
   - Self-help
 seo:
   image:
-    src: '/yves-cedric-schulze-_Vj2GQ56VvA-unsplash.jpg'
+    src: '/yves-cedric-schulze-_Vj2GQ56VvA-unsplash-min.jpg'
     alt: Wavy lines
 ---
 

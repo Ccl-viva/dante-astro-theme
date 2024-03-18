@@ -7,7 +7,7 @@ tags:
   - Self-help
 seo:
   image:
-    src: '/fruit-basket-agency-caH-ZLrisZA-unsplash.jpg'
+    src: '/fruit-basket-agency-caH-ZLrisZA-unsplash-min.jpg'
     alt: Wavy lines
 ---
 ![Wavy lines](/fruit-basket-agency-caH-ZLrisZA-unsplash.jpg)
